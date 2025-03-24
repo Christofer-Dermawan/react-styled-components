@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #d32f2f;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+.navbar .nav-link {
+    color: white !important;
+}
+
+.navbar .nav-link:hover {
+    color: #bbdefb !important; 
+}
+
+header {
+    background-color: #1976d2 !important; 
+}
+
+.service-container {
+    border: 2px solid #d32f2f; 
+    background-color: #ffebee; 
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.service-container img {
+    border-radius: 10px;
+    padding: 5px;
+}
